@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'tdkit_buryingpoint1_Example' do
+  pod 'tdkit_buryingpoint1', :path => '../'
+
+  target 'tdkit_buryingpoint1_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
