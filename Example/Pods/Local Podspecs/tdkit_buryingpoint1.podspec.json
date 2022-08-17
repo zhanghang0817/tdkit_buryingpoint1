@@ -1,0 +1,22 @@
+{
+  "name": "tdkit_buryingpoint1",
+  "version": "0.1.0",
+  "summary": "A short description of tdkit_buryingpoint1.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhanghang817@163.com/tdkit_buryingpoint1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhanghang817@163.com": "654060367@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/zhanghang817@163.com/tdkit_buryingpoint1.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "tdkit_buryingpoint1/Classes/**/*"
+}

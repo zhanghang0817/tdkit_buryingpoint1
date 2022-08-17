@@ -7,12 +7,16 @@
 //
 
 import UIKit
+import tdkit_buryingpoint1
+import Pods_tdkit_buryingpoint1_Example
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+      let test =  TestPod()
+        test.test()
+        
     }
 
     override func didReceiveMemoryWarning() {

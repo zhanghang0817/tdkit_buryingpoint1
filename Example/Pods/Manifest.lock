@@ -1,0 +1,16 @@
+PODS:
+  - tdkit_buryingpoint1 (0.1.0)
+
+DEPENDENCIES:
+  - tdkit_buryingpoint1 (from `../`)
+
+EXTERNAL SOURCES:
+  tdkit_buryingpoint1:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  tdkit_buryingpoint1: 793a4072a4301690a8e5de9acb9d8fc9cc728d36
+
+PODFILE CHECKSUM: 702f6cc07477c85a1f200e76f11051a998a60410
+
+COCOAPODS: 1.11.3
